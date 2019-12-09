@@ -33,5 +33,40 @@
         "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vccmmkd0muvtvart9jnq/%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-air-max-dia-f8hlbF.jpg",
         "price": 94.97,
         "description": "Τα Nike Air Max Dia προσφέρουν ανανεωμένη, αέρινη αισθητική σε κομψό σχέδιο. Το μίνιμαλ επάνω μέρος προσφέρει μοντέρνα εμφάνιση, ενώ η μονάδα Max Air, που περιβάλλεται από διαφανές TPU, τονίζεται ακόμα περισσότερο από τη μεγάλη ενδιάμεση σόλα για κορυφαίο στυλ."
+    },
+    {
+        "_id": "6",
+        "title": "Air Jordan 14 Retro SE",
+        "photo": "https://c.static-nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/ihdfltqfuc4z5mzrtehs/%CE%B1%CE%BD%CE%B4%CF%81%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-air-jordan-14-retro-se-jvC2jq.jpg",
+        "price": 199,
+        "description": "Αντλώντας έμπνευση από ένα παπούτσι που θεωρείται ως ένα από τα πιο άνετα μοντέλα Air Jordan που δημιουργήθηκαν ποτέ, τα Air Jordan 14 Retro SE έχουν σχεδίαση υψηλών επιδόσεων που συνδυάζει την αντικραδασμική προστασία υψηλής απόκρισης με τα ανθεκτικά υλικά σε ένα ολοκληρωμένο πακέτο για το γήπεδο."
+    },
+    {
+        "_id": "7",
+        "title": "Nike Joyride Dual Run",
+        "photo": "https://c.static-nike.com/a/images/f_auto/q_auto/t_PDP_864_v1/10b8762f-3200-43e9-8520-877b49416b4b/%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B5%CE%BE%CE%B9%CE%BC%CE%BF-joyride-dual-run-%CE%B3%CE%B9%CE%B1-%CE%BC%CE%B5%CE%B3%CE%B1%CE%BB%CE%B1-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CE%B1-lG8Kz8.jpg",
+        "price": 99,
+        "description": "Τα Nike Joyride Dual Run ανατρέπουν τα δεδομένα στο τρέξιμο με καλύτερη αντικραδασμική προστασία από ποτέ. Τα μικροσκοπικά πολύχρωμα σφαιρίδια από μαλακό αφρό συμπιέζονται και προσαρμόζονται στο πόδι σου σε κάθε κίνηση. Με τόσο μαλακά, άνετα και διασκεδαστικά παπούτσια για τρέξιμο, μπορεί να μην τα βγάλεις ποτέ."
+    },
+    {
+        "_id": "8",
+        "title": "PG 3 By Josh Okogie",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bc9sxf4owykakpiqempn/pg-3-by-you.jpg",
+        "price": 139,
+        "description": "Χάρη στα θανατηφόρα σουτ, το οπλοστάσιο των εκρηκτικών του κινήσεων και τη σταθερή του άμυνα, ο Paul George δεν μπορεί να συγκριθεί με κανέναν άλλο παίκτη. Αυτήν τη σεζόν χρησιμοποιεί το PG 3 για να απογειώσει ακόμα περισσότερο το παιχνίδι του. Αντέγραψε το στυλ του για τις εμφανίσεις σου στο γήπεδο ή δημιούργησε το δικό σου αριστούργημα με επιλογές χρώματος, πρόσφυσης και εξατομίκευσης."
+    },
+    {
+        "_id": "9",
+        "title": "Zoom Freak 1 By Kostas Antetokounmpo",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/n9kckmjnqbzgc2axjg9k/custom-zoom-freak-1-by-you.jpg",
+        "price": 140,
+        "description": "Απελευθέρωσε τη δύναμη που κρύβεις μέσα σου με το πρώτο παπούτσι με την υπογραφή του Γιάννη Αντετοκούνμπο, το πρώτο παπούτσι που δημιούργησε η Nike για τον διεθνή μπασκετμπολίστα. Το Zoom Freak 1 By You προσφέρει αντικραδασμική προστασία με εξαιρετικά υψηλή απόκριση, σταθερό κράτημα στο μπροστινό μέρος, πρόσφυση σε πολλές κατευθύνσεις και αρκετές επιλογές εξατομίκευσης για να αναδείξεις το στυλ και το παιχνίδι σου."
+    },
+    {
+        "_id": "10",
+        "title": "Nike Air Force 1 Mid By You",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ya2tizueki8eddikrurn/nike-air-force-one-mid-id.jpg",
+        "price": 139,
+        "description": "Τα Nike Air Force 1 Mid By You γυρίζουν στο παρελθόν με χαρακτηριστικά που καθιέρωσαν το AF1 όταν κυκλοφόρησε το 1982. Με την προσθήκη του διχτυωτού υλικού στο πλάι του παπουτσιού και το αρχικό λογότυπο Nike Air στη φτέρνα, τα δικά σου AF1 θα έχουν την εμφάνιση και την αίσθηση του πρώτου μοντέλου, με πραγματικά ρετρό στυλ."
     }
 ]
