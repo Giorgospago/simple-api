@@ -34,18 +34,13 @@ app.get("/products", (req, res) => {
 app.get("/products/:productId", (req, res) => {
     const id = req.params.productId;
     const productFound = products.find(p=>p._id == id);
-    if (productFound) {
-        res.json(productFound);
-    } else {
-        res.json({
-            "_id": "0",
-            "title": "Product not found",
-            "photo": "http://www.wusthof.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/wusthof-imagenotfound.jpg",
-            "price": 5000000,
-            "description": "Product not found product not found product not found product not found product not found product not found."
-        });
-    }
-    
+    res.json(productFound || {
+        "_id": "0",
+        "title": "Product not found",
+        "photo": "http://www.wusthof.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/placeholder/default/wusthof-imagenotfound.jpg",
+        "price": 5000000,
+        "description": "Product not found product not found product not found product not found product not found product not found."
+    });
 });
 
 app.get("/about", (req, res) => {
