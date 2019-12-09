@@ -1,0 +1,37 @@
+[
+    {
+        "_id": "1",
+        "title": "Nike Air Max 98",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/eee63487-1336-43d8-8e81-168b2b05d0e8/%CE%B1%CE%BD%CE%B4%CF%81%CE%B9%CE%BA%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-air-max-98-rl3SRV.jpg",
+        "price": 179,
+        "description": "Σε μια τοπική ποδοσφαιρική ομάδα στο σκληρό παριζιάνικο προάστιο του Μποντί, ένα παιδί με το όνομα Kylian Mbappé έκανα προπόνηση για να βελτιώσει το παιχνίδι του ανάμεσα σε γκρίζες τσιμεντένιες πολυκατοικίες. Δεν χρειάστηκε πολύς καιρός μέχρις ότου εκείνο το παιδί να κάνει την εμφάνισή του στην παγκόσμια σκηνή και να γίνει ένας από τους μεγαλύτερους και πιο διάσημους αθλητές του ποδοσφαίρου. Το Nike Air Max 98 είναι αφιερωμένο στο παιδικό όνειρο του Mbappé, σε ένα sneaker που φέρνει την κληρονομιά του Μποντί στις γειτονιές του κόσμου."
+    },
+    {
+        "_id": "2",
+        "title": "LeBron 17 PRM",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8ce9c2f8-bd64-4e41-aaf5-3df090b43855/%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-%CE%BC%CF%80%CE%B1%CF%83%CE%BA%CE%B5%CF%84-lebron-17-prm-VkdcrJ.jpg",
+        "price": 199,
+        "description": "Τα LeBron 17 PRM έχουν σχεδιαστεί με γνώμονα τη δύναμη και την ταχύτητα του LeBron, προσφέροντας συγκράτηση και στήριξη του ποδιού και απόλυτη κυριαρχία στο γήπεδο. Διαθέτουν ανάλαφρο συνδυασμό πλεκτών και θερμικά διαμορφωμένων νημάτων που εξασφαλίζουν ανθεκτική εμφάνιση και αίσθηση. Η συνδυασμένη αντικραδασμική προστασία προσφέρει στον LeBron τη στήριξη στις προσκρούσεις και την επιστροφή ενέργεια υψηλής απόκρισης που χρειάζεται για δυναμικές επιδόσεις σε όλη τη διάρκεια της σεζόν."
+    },
+    {
+        "_id": "3",
+        "title": "Nike Air Max 270 React",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/opeoqafem7fv5g1bjsox/%CE%B3%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B5%CE%B9%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-air-max-270-react-gLCh7j.jpg",
+        "price": 169,
+        "description": "Το Nike Air Max 270 React χαρίζει κορυφαίο στυλ χάρη στις μεταλλιζέ επικαλύψεις σε απόχρωση Metallic Gold και το συνθετικό σουέντ που λάμπει πραγματικά. Το προσεγμένο επάνω μέρος βασίζεται στην πρώτη lifestyle μονάδα Air της Nike και στον πιο μαλακό, ομαλό και ανθεκτικό αφρό που δημιουργήθηκε μέχρι σήμερα, για ασύγκριτο βηματισμό."
+    },
+    {
+        "_id": "4",
+        "title": "Nike Joyride Dual Run",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e8gefv9vexcoh4any4ww/%CE%B3%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B5%CE%B9%CE%BF-%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-%CE%B3%CE%B9%CE%B1-%CF%84%CF%81%CE%B5%CE%BE%CE%B9%CE%BC%CE%BF-joyride-dual-run-M8vkhm.jpg",
+        "price": 129,
+        "description": "Τα Nike Joyride Dual Run έχουν σχεδιαστεί για να διευκολύνουν το τρέξιμο, χαρίζοντας απόλυτη άνεση στα πόδια σου. Τα μικροσκοπικά σφαιρίδια αφρού κάτω από το πέλμα προσαρμόζονται στο σχήμα του ποδιού, για αντικραδασμική προστασία που παραμένει αξιόπιστη για πολλά χιλιόμετρα."
+    },
+    {
+        "_id": "5",
+        "title": "Nike Air Max Dia",
+        "photo": "https://c.static-nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/vccmmkd0muvtvart9jnq/%CF%80%CE%B1%CF%80%CE%BF%CF%85%CF%84%CF%83%CE%B9-air-max-dia-f8hlbF.jpg",
+        "price": 94.97,
+        "description": "Τα Nike Air Max Dia προσφέρουν ανανεωμένη, αέρινη αισθητική σε κομψό σχέδιο. Το μίνιμαλ επάνω μέρος προσφέρει μοντέρνα εμφάνιση, ενώ η μονάδα Max Air, που περιβάλλεται από διαφανές TPU, τονίζεται ακόμα περισσότερο από τη μεγάλη ενδιάμεση σόλα για κορυφαίο στυλ."
+    }
+]
